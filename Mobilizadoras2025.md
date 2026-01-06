@@ -30,7 +30,7 @@ As definições dos conceitos das metas são realizadas em conjunto com a área 
 <br />
 
 # Caminho da rede
-
+<a id='CaminhoRede'></a>
 - \\sp-sebrae
   * UGE
       + 06.Monitoramento Estratégico
@@ -49,8 +49,8 @@ Para execução do script se faz necessário a utilização do software Microsof
 # METAS MOBILIZADORAS <a id='Metas'></a>
 
 ***
-# Clientes atendidos com Foco em Resultados
-<a id='ClientesAtendidosFocoResultados'></a>
+# Clientes atendidos com Foco em Resultados <a id='ClientesAtendidosFocoResultados'></a>
+
 
 
 ## Definição da Meta
