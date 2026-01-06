@@ -8,7 +8,7 @@ As definições dos conceitos das metas são realizadas em conjunto com a área 
 ## Índice
 
 - [Caminho da rede](#CaminhoRede)
-- [Metas Mobilizadoras](#Metas)
+- [Metas Mobilizadoras](#metas)
   * [Clientes Atendidos com Foco em Resultados](#ClientesAtendidosFocoResultados)
   * [Faturamento (Sem Ali)](#FaturamentoSemAli)
   * [Faturamento](#Faturamento)
@@ -46,7 +46,7 @@ Para execução do script se faz necessário a utilização do software Microsof
 
 <br>
 
-# METAS MOBILIZADORAS <a id='Metas'></a>
+# METAS MOBILIZADORAS <a id='metas'></a>
 
 ***
 # Clientes atendidos com Foco em Resultados 
